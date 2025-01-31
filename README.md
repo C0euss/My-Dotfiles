@@ -36,7 +36,7 @@ pacman -S stow
 First, clone the dotfiles repo to you `$HOME` directory using git.
 
 ```
-$ git clone https://github.com/gerardo3022/dotfiles.github
+$ git clone https://github.com/C0euss/My-Dotfiles.git dotfiles
 $ cd dotfiles
 ```
 
